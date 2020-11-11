@@ -2,7 +2,7 @@
 
 I am currently building a portfolio web app to represent my previous and current work history in a pleasing and entertaining format. 
 
-As I have been looking to fully transition into a front-end developer, I quickly realized how out of touch I have become with modern API's and front-end development tools. Therefore I decided to build my portfolio website by learning to use the tools and frameworks that I had been previously lacking experience with. 
+As I have been making the transition from full-stack to front-end developer, I quickly realized how out of touch I have become with modern API's and front-end development tools. Therefore I decided to build my portfolio website by learning to use the tools and frameworks that I had been previously lacking experience with. 
 
 This web app is being built with:
 - ASP.NET Core
