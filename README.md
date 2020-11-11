@@ -10,4 +10,4 @@ This web app is being built with:
 - Bootstrap
 - Azure Cloud Storage
 
-The goal is to host this web app on my domain (mattunderation.com). It will contain your average portfolio website content (My projects, about me,...etc), as well as some interactive demo's to show my knowledge of React and ASP.NET.
+The goal is to host this web app on my domain (mattunderation.com). It will contain your average portfolio website content (My projects, about me,...etc), as well as some interactive demos to show off my knowledge of React and Azure.
